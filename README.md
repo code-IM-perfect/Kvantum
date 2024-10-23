@@ -38,14 +38,14 @@
 ## Usage
 
 1. Clone this repo and move into the cloned directory.
-```sh
-git clone https://github.com/catppuccin/Kvantum.git
-cd Kvantum
-```
+    ```sh
+    git clone https://github.com/catppuccin/Kvantum.git
+    cd Kvantum
+    ```
 2. Copy the theme folders to the kvantum config folder.
-```sh
-cp -r themes/* ~/.config/Kvantum/
-```
+    ```sh
+    cp -r themes/* ~/.config/Kvantum/
+    ```
 3. Apply the installed themes via Kvantum Manager.
 
 ## 💝 Thanks to
