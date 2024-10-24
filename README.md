@@ -44,6 +44,7 @@
     ```
 2. Copy the theme folders to the kvantum config folder.
     ```sh
+    mkdir -p ~/.config/Kvantum
     cp -r themes/* ~/.config/Kvantum/
     ```
 3. Apply the installed themes via Kvantum Manager.
